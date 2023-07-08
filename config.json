@@ -1,5 +1,5 @@
 {
-   "token": "",
+   "token": "MzA2NTU0MDE2OTY2NTA4NTQ1.G16J-R.bvIWeiobYqjThNo3SV_2QZr-R-R0-9Eg_oive8",
    "command_prefix": "P^",
    "priority": [
       "Groudon",
@@ -11,7 +11,7 @@
    "catch_rate": 90,
    "delay": 3,
    "delay_on_priority": false,
-   "restrict_duplicates": true,
+   "restrict_duplicates": false,
    "max_duplicates": 2,
    "blacklists": [],
    "whitelists": [],
